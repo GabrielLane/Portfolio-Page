@@ -1,7 +1,8 @@
+/* I did not have as long as I would have liked left to finish this, I rushed through the CSS page. */
 body {
   background-color: White;
-}
-
+} 
+/* Kind of pointless but hey, it was a requirement, besides I think white is a good choice. */
 h1 {
   color: green;
   font-family: 'Times New Roman';
@@ -9,8 +10,8 @@ h1 {
   text-align: center;
   line-height: 24px;
 }
-
-
+/* I was very nervous about how this would turn out but it actually worked just fine and was kind of pretty. */
+ 
 p {
   color: blue;
   font-family: arial;
@@ -20,4 +21,4 @@ p {
   padding: 15px 20px;
   border-radius: 20px;
 }
-
+/* I'm very surprised that this came out nearly as well as it did. I would probably play with it later but there's little time left... I hope this satisfies all of the requirements! I think it did. Thanks! */
